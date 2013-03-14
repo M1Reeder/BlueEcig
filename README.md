@@ -1,4 +1,1 @@
-BluEcig
-=======
-
-BluEcig Locater
+Blue Ecig Locater
